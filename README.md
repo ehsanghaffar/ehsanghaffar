@@ -2,7 +2,12 @@
 
 I am very interested in learning. I am still learning backend programming.
 
-My Personal Website is [ehsanghaffarii.ir](https://ehsanghaffarii.ir)
+
+#### My Personal Website
+
+<a href="https://ehsanghaffarii.ir">
+  <img src="https://ehsanghaffarii.ir/img/icons/icon-72x72.png" alt="ehsan ghaffarii personal website" />
+</a>
 
 #### Ehsan in social networks
 
