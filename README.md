@@ -6,7 +6,7 @@ I am very interested in learning. I am still learning backend programming.
 #### My Personal Website
 
 <a href="https://ehsanghaffarii.ir">
-  <img src="https://ehsanghaffarii.ir/img/favicon.ico" alt="ehsan ghaffarii personal website" />
+  <img style="max-width:50px !important;" src="https://ehsanghaffarii.ir/img/favicon.ico" alt="ehsan ghaffarii personal website" />
 </a>
 
 #### Ehsan in social networks
