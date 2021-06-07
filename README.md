@@ -13,7 +13,13 @@ I am very interested in learning. I am still learning backend programming.
   <a href="https://twitter.com/ehsanghaffarii">
     <img alt="Twitter" src="https://img.shields.io/twitter/follow/ehsanghaffarii">
   </a>
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-Ehsanghaffarii-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ehsanghaffarii/)](https://www.linkedin.com/in/ehsanghaffarii/)
+
+
 </p>
+
+
 <div class="col">
 <!-- <pre>
 <a href="https://www.linkedin.com/in/ehsanghaffarii/">
