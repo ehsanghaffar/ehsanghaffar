@@ -14,16 +14,15 @@ I am very interested in learning. I am still learning backend programming.
     <img alt="Twitter" src="https://img.shields.io/twitter/follow/ehsanghaffarii">
   </a>
 </p>
-#### Ehsan in social networks
 <div class="col">
-<pre>
+<!-- <pre>
 <a href="https://www.linkedin.com/in/ehsanghaffarii/">
 <img src="https://static-exp3.licdn.com/scds/common/u/images/logos/linkedin/logo_linkedin_93x21_v2.png" alt="linkedin icon" />
 </a>
 <a href="https://www.instagram.com/ehsanghaffarii/">
 <img  src="https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png" alt="ehsan ghaffar instagram" />
 </a>
-</pre>
+</pre> -->
 <div>
 <a href="https://github.com/ehsanghaffarii">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffarii&count_private=true" /> 
