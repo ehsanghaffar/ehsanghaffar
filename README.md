@@ -2,13 +2,18 @@
 
 I am very interested in learning. I am still learning backend programming.
 
+👨‍💻 Working for myself
 
-#### My Personal Website
+<!-- #### My Personal Website
 
 <a href="https://ehsanghaffarii.ir">
   <img style="max-width:50px !important;" src="https://ehsanghaffarii.ir/img/favicon.ico" alt="ehsan ghaffarii personal website" />
-</a>
-
+</a> -->
+<p>
+  <a href="https://twitter.com/ehsanghaffarii">
+    <img alt="Twitter" src="https://img.shields.io/twitter/follow/ehsanghaffarii">
+  </a>
+</p>
 #### Ehsan in social networks
 <div class="col">
 <pre>
@@ -23,9 +28,9 @@ I am very interested in learning. I am still learning backend programming.
 <a href="https://github.com/ehsanghaffarii">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffarii&count_private=true" /> 
 </a>
-<a href="https://github.com/ehsanghaffarii">
+<!-- <a href="https://github.com/ehsanghaffarii">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanghaffarii" />
-</a>
+</a> -->
 
 </div>
 </div>
