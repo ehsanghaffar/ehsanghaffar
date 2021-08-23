@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: ehsanghaffarii/blog-post-workflow@master
+      - uses: ehsanghaffarii/blog-post-workflow@main
         with:
           feed_list: "https://fotokar.ir/rss.xml"
