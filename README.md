@@ -11,7 +11,7 @@ I am very interested in learning. I am still learning backend programming.
   <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffarii&count_private=true" /> 
 </a>
   
-  ## My Blog Posts on ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-squire&logo=hashnode&logoColor=white?logoWidth=10)
+  ## My Blog Posts on ![Hashnode](https://img.shields.io/badge/Fotokar-2962FF?style=flat-squire&logo=hashnode&logoColor=white)
   
   <!-- BLOG-POST-LIST:START -->
 - [A NodeJs web application using an application skeleton!](https://fotokar.ir/a-nodejs-web-application-using-an-application-skeleton)
