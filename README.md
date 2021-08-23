@@ -21,7 +21,7 @@ I am very interested in learning. I am still learning backend programming.
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=ehsanghaffarii.visitor-badge)
 
-<div class="col">
+<div style="display: flex;">
 <!-- <pre>
 <a href="https://www.linkedin.com/in/ehsanghaffarii/">
 <img src="https://static-exp3.licdn.com/scds/common/u/images/logos/linkedin/logo_linkedin_93x21_v2.png" alt="linkedin icon" />
