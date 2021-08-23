@@ -16,14 +16,14 @@ I am very interested in learning. I am still learning backend programming.
   
   [![Linkedin Badge](https://img.shields.io/badge/-Ehsanghaffarii-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ehsanghaffarii/)](https://www.linkedin.com/in/ehsanghaffarii/)
 
-
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=ehsanghaffarii.visitor-badge)
 </p>
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=ehsanghaffarii.visitor-badge)
+
 
 <div style="display: flex">
 <a href="https://github.com/ehsanghaffarii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffarii&count_private=true" /> 
+  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffarii&count_private=true" /> 
 </a>
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ehsanghaffarii&theme=dark)](https://git.io/streak-stats)
+  
 </div>
