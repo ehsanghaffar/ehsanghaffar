@@ -21,24 +21,11 @@ I am very interested in learning. I am still learning backend programming.
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=ehsanghaffarii.visitor-badge)
 
-<div style="display: flex;">
-<!-- <pre>
-<a href="https://www.linkedin.com/in/ehsanghaffarii/">
-<img src="https://static-exp3.licdn.com/scds/common/u/images/logos/linkedin/logo_linkedin_93x21_v2.png" alt="linkedin icon" />
-</a>
-<a href="https://www.instagram.com/ehsanghaffarii/">
-<img  src="https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png" alt="ehsan ghaffar instagram" />
-</a>
-</pre> -->
 <div style="display: flex">
 <a href="https://github.com/ehsanghaffarii">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffarii&count_private=true" /> 
 </a>
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ehsanghaffarii&theme=dark)](https://git.io/streak-stats)
-<!-- <a href="https://github.com/ehsanghaffarii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanghaffarii" />
-</a> -->
-
-</div>
+ <a width:"200">
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ehsanghaffarii&theme=dark)](https://git.io/streak-stats)
+  </a>
 </div>
