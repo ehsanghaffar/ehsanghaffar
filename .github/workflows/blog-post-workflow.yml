@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: ehsanghaffarii/blog-post-workflow@main
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOG-POST-LIST"
           feed_list: "https://fotokar.ir/rss.xml"
