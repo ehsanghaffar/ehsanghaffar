@@ -34,6 +34,8 @@ I am very interested in learning. I am still learning backend programming.
 <a href="https://github.com/ehsanghaffarii">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffarii&count_private=true" /> 
 </a>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ehsanghaffarii&theme=dark)](https://git.io/streak-stats)
 <!-- <a href="https://github.com/ehsanghaffarii">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanghaffarii" />
 </a> -->
