@@ -19,7 +19,7 @@ I am very interested in learning. I am still learning backend programming.
 
 </p>
 
-https://visitor-badge.glitch.me/badge?page_id=ehsanghaffarii.visitor-badge
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=ehsanghaffarii.visitor-badge)
 
 <div class="col">
 <!-- <pre>
