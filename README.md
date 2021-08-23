@@ -30,7 +30,7 @@ I am very interested in learning. I am still learning backend programming.
 <img  src="https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png" alt="ehsan ghaffar instagram" />
 </a>
 </pre> -->
-<div>
+<div style="display: flex">
 <a href="https://github.com/ehsanghaffarii">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffarii&count_private=true" /> 
 </a>
