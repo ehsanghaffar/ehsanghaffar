@@ -8,13 +8,19 @@ I am very interested in learning. I am still learning backend programming.
 
 <div style="display: flex">
 <a href="https://github.com/ehsanghaffarii">
-  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffarii&count_private=true" /> 
+  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffarii&count_private=true&theme=graywhite" /> 
 </a>
   
-  ## My Blog Posts on ![Hashnode](https://img.shields.io/badge/Fotokar-2962FF?style=flat-squire&logo=hashnode&logoColor=white)
+<!--   ## My Blog Posts on ![Hashnode](https://img.shields.io/badge/Fotokar-2962FF?style=flat-squire&logo=hashnode&logoColor=white) -->
   
   <!-- BLOG-POST-LIST:START -->
-- [A NodeJs web application using an application skeleton!](https://fotokar.ir/a-nodejs-web-application-using-an-application-skeleton)
-- [Hello Hashnode's World!](https://fotokar.ir/hello-hashnodes-world)
+<!-- - [A NodeJs web application using an application skeleton!](https://fotokar.ir/a-nodejs-web-application-using-an-application-skeleton) -->
+<!-- - [Hello Hashnode's World!](https://fotokar.ir/hello-hashnodes-world) -->
 <!-- BLOG-POST-LIST:END -->
 </div>
+
+### Just for you
+
+<p align="">
+<a style="margin-left:2rem" href="https://github.com/ehsanghaffarii/laravel-neumorphism"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=ehsanghaffarii&repo=laravel-neumorphism&theme=dark"></a>
+<a href="https://github.com/noob-hackers/mrphish"><img title="mrphish" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=mrphish&theme=dark"></a>
