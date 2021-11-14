@@ -19,8 +19,9 @@ I am very interested in learning. I am still learning backend programming.
 <!-- BLOG-POST-LIST:END -->
 </div>
 
-### Just for you
 
+<!-- 
 <p align="">
 <a style="margin-left:2rem" href="https://github.com/ehsanghaffarii/laravel-neumorphism"><img title="neumorphism" src="https://github-readme-stats.vercel.app/api/pin/?username=ehsanghaffarii&repo=laravel-neumorphism&theme=dark"></a>
 <a href="https://github.com/ehsanghaffarii/clubhouse-cli"><img title="clubhouse cli" src="https://github-readme-stats.vercel.app/api/pin/?username=ehsanghaffarii&repo=clubhouse-cli&theme=dark"></a>
+ -->
