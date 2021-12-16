@@ -10,7 +10,7 @@ I am very interested in learning. I am still learning backend programming.
   
   <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffarii&count_private=true&theme=graywhite&show_icons=true" /> 
   
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ehsandev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ehsandev&layout=compact)](https://ehsanghaffarii.ir)
   
 </div>
 <!--   ## My Blog Posts on ![Hashnode](https://img.shields.io/badge/Fotokar-2962FF?style=flat-squire&logo=hashnode&logoColor=white) -->
