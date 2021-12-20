@@ -9,11 +9,13 @@ I am very interested in learning. I am still learning backend programming.
 <div class="d-flex" style="display: flex">
   
   <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffarii&count_private=true&theme=graywhite&show_icons=true" /> 
+  <p>
   
-  Last Week Status:  [![wakatime](https://wakatime.com/badge/user/f0b0dc2d-d692-4e9a-a6ed-667b80d7dd34.svg)](https://wakatime.com/@ehsandev)
+  Last Week WorkTime: [![wakatime](https://wakatime.com/badge/user/f0b0dc2d-d692-4e9a-a6ed-667b80d7dd34.svg)](https://wakatime.com/@ehsandev)
   
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ehsandev)](https://ehsanghaffarii.ir)
   
+  </p>
 </div>
 <!--   ## My Blog Posts on ![Hashnode](https://img.shields.io/badge/Fotokar-2962FF?style=flat-squire&logo=hashnode&logoColor=white) -->
   
