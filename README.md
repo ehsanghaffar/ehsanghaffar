@@ -2,7 +2,7 @@
 
 I am very interested in learning. I am still learning backend programming.
 
-[![Twitter Badge](https://img.shields.io/badge/-@ehsanghaffarii-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ehsanghaffarii)](https://twitter.com/ehsanghaffarii)  [![Linkedin Badge](https://img.shields.io/badge/-Ehsanghaffarii-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ehsanghaffarii/)](https://www.linkedin.com/in/ehsanghaffarii/)  [![wakatime](https://wakatime.com/badge/user/f0b0dc2d-d692-4e9a-a6ed-667b80d7dd34.svg)](https://wakatime.com/@ehsandev)
+[![Twitter Badge](https://img.shields.io/badge/-@ehsanghaffarii-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ehsanghaffarii)](https://twitter.com/ehsanghaffarii)  [![Linkedin Badge](https://img.shields.io/badge/-Ehsanghaffarii-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ehsanghaffarii/)](https://www.linkedin.com/in/ehsanghaffarii/)  
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-squire&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-squire&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-squire&logo=angular&logoColor=white) ![Aurelia](https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=flat-squire&logo=aurelia&logoColor=fff)
 
@@ -10,7 +10,7 @@ I am very interested in learning. I am still learning backend programming.
   
   <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffarii&count_private=true&theme=graywhite&show_icons=true" /> 
   
-  Last Day Status:
+  Last Week Status:  [![wakatime](https://wakatime.com/badge/user/f0b0dc2d-d692-4e9a-a6ed-667b80d7dd34.svg)](https://wakatime.com/@ehsandev)
   
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ehsandev)](https://ehsanghaffarii.ir)
   
