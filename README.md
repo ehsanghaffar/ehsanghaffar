@@ -13,7 +13,7 @@ I am very interested in learning. I am still learning backend programming.
   
   Last Week WorkTime: [![wakatime](https://wakatime.com/badge/user/f0b0dc2d-d692-4e9a-a6ed-667b80d7dd34.svg)](https://wakatime.com/@ehsandev)
   
-  [![WorkTime status](https://github-readme-stats.vercel.app/api/wakatime?username=ehsandev&layout=compact)](https://ehsanghaffarii.ir)
+  [![WorkTime status](https://github-readme-stats.vercel.app/api/wakatime?username=ehsandev)](https://ehsanghaffarii.ir)
   
   </p>
 </div>
