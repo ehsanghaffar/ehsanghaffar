@@ -11,9 +11,29 @@ I am very interested in learning. I am still learning backend programming.
   <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffarii&count_private=true&theme=graywhite&show_icons=true" /> 
   <p>
   
-  Last Week WorkTime: [![wakatime](https://wakatime.com/badge/user/f0b0dc2d-d692-4e9a-a6ed-667b80d7dd34.svg)](https://wakatime.com/@ehsandev)
+<!--   Last Week WorkTime: [![wakatime](https://wakatime.com/badge/user/f0b0dc2d-d692-4e9a-a6ed-667b80d7dd34.svg)](https://wakatime.com/@ehsandev) -->
   
-  [![WorkTime status](https://github-readme-stats.vercel.app/api/wakatime?username=ehsandev)](https://ehsanghaffarii.ir)
+<!--   [![WorkTime status](https://github-readme-stats.vercel.app/api/wakatime?username=ehsandev)](https://ehsanghaffarii.ir) -->
+    
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Africa/Douala
+
+💬 Programming Languages: 
+TypeScript               52 hrs 39 mins      ███████████░░░░░░░░░░░░░░   45.45% 
+JavaScript               24 hrs 3 mins       ██████░░░░░░░░░░░░░░░░░░░   30.22% 
+Python                   4  hrs 2 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97% 
+HTML                     2  hrs              ███░░░░░░░░░░░░░░░░░░░░░░   8.41% 
+SASS                     1  hr               █░░░░░░░░░░░░░░░░░░░░░░░░   1.36%
+
+💻 Operating System: 
+Mac                      45 hrs 14 mins      ██████████████████░░░░░░░   70.0%
+Linux                    30 hrs 02 mins      ████████░░░░░░░░░░░░░░░░░   30.0%
+    
+```
+
+<!--END_SECTION:waka-->
   
   </p>
 </div>
