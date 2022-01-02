@@ -8,7 +8,9 @@ Aspiring Developer(focused on FrontEnd) which interested in the assembly program
 - 😄 I enjoy Python, C/C++ and assembly language
 
 #### 📫 How to reach me: ...
-[![Twitter Badge](https://img.shields.io/badge/-@ehsanghaffarii-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ehsanghaffarii)](https://twitter.com/ehsanghaffarii)  [![Linkedin Badge](https://img.shields.io/badge/-Ehsanghaffarii-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ehsanghaffarii/)](https://www.linkedin.com/in/ehsanghaffarii/)  
+[![twitter](https://img.shields.io/twitter/follow/ehsanghaffarii?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/ehsanghaffarii)
+[![github](https://img.shields.io/github/followers/ehsanghaffarii?logo=github&style=plastic)](https://github.com/ehsanghaffarii?tab=followers)
+[![wakatime](https://wakatime.com/badge/user/f0b0dc2d-d692-4e9a-a6ed-667b80d7dd34.svg)](https://wakatime.com/@ehsandev)
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-squire&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-squire&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-squire&logo=angular&logoColor=white) ![Aurelia](https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=flat-squire&logo=aurelia&logoColor=fff)   ![visitors](https://visitor-badge.glitch.me/badge?page_id=ehsanghaffarii)
 
@@ -16,13 +18,12 @@ Aspiring Developer(focused on FrontEnd) which interested in the assembly program
   
   <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffarii&count_private=true&theme=graywhite&show_icons=true" /> 
   <p>
-  
-<!--   Last Week WorkTime: [![wakatime](https://wakatime.com/badge/user/f0b0dc2d-d692-4e9a-a6ed-667b80d7dd34.svg)](https://wakatime.com/@ehsandev) -->
-  
-<!--   [![WorkTime status](https://github-readme-stats.vercel.app/api/wakatime?username=ehsandev)](https://ehsanghaffarii.ir) -->
+📊 This Week I Spent My Time On
     
-📊 **This Week I Spent My Time On** 
+ [![WorkTime status](https://github-readme-stats.vercel.app/api/wakatime?username=ehsandev)](https://ehsanghaffarii.ir)
+    
 
+<!-- 
 ```text
 ⌚︎ Time Zone: Africa/Douala
 
@@ -37,7 +38,7 @@ SASS                     1  hr               █░░░░░░░░░░�
 Mac                      45 hrs 14 mins      ██████████████████░░░░░░░   70.0%
 Linux                    30 hrs 02 mins      ████████░░░░░░░░░░░░░░░░░   30.0%
     
-```
+``` -->
 
 <!--END_SECTION:waka-->
   
