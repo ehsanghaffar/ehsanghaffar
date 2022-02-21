@@ -1,58 +1,33 @@
 ## Hi, I'm Ehsan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<!-- I am very interested in learning. I am still learning backend programming. -->
 Aspiring Developer(focused on FrontEnd) which interested in the assembly programming language. Also, I love doing Graphic Designs for fun
+
 - 🔭 I’m currently working on [Komodoro](https://komodoro.io) & [fullerStack](https://github.com/ehsanghaffarii/fullerstack)
 - 📒 Getting Started with C++ Programming Language
 - 🌱 I’m currently learning Python, React and GraphQL
 - 😄 I enjoy Python, C/C++ and assembly language
 
 #### 📫 How to reach me: ...
+
 [![twitter](https://img.shields.io/twitter/follow/ehsanghaffarii?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/ehsanghaffarii)
-[![github](https://img.shields.io/github/followers/ehsanghaffarii?logo=github&style=plastic)](https://github.com/ehsanghaffarii?tab=followers)
-[![wakatime](https://wakatime.com/badge/user/f0b0dc2d-d692-4e9a-a6ed-667b80d7dd34.svg)](https://wakatime.com/@ehsandev)
+[![Instagram](https://img.shields.io/badge/Instagram%20Page-Follow-E4405F?logo=instagram)](https://www.instagram.com/ehsanghaffarii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?logo=linkedin)](https://www.linkedin.com/in/ehsanghaffarii)
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-squire&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-squire&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-squire&logo=angular&logoColor=white) ![Aurelia](https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=flat-squire&logo=aurelia&logoColor=fff)   ![visitors](https://visitor-badge.glitch.me/badge?page_id=ehsanghaffarii)
+#### 💾 Which technology I know?
 
-<div class="d-flex" style="display: flex">
-  
-  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffarii&count_private=true&theme=graywhite&show_icons=true" /> 
-  <p>
-📊 This Week I Spent My Time On
-    
- [![WorkTime status](https://github-readme-stats.vercel.app/api/wakatime?username=ehsandev)](https://ehsanghaffarii.ir)
-    
+[![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-squire&logo=javascript&logoColor=%23F7DF1E)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-squire&logo=angular&logoColor=white)
+![Aurelia](https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=flat-squire&logo=aurelia&logoColor=fff)
+
+<img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffarii&count_private=true&theme=graywhite&show_icons=true" /> 
+
+#### 📊 This Week I Spent My Time On
+
+[![WorkTime status](https://github-readme-stats.vercel.app/api/wakatime?username=ehsandev&hide=html,css,yaml,scss,other)](https://ehsanghaffarii.ir)
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanghaffarii)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- 
-```text
-⌚︎ Time Zone: Africa/Douala
 
-💬 Programming Languages: 
-TypeScript               52 hrs 39 mins      ███████████░░░░░░░░░░░░░░   45.45% 
-JavaScript               24 hrs 3 mins       ██████░░░░░░░░░░░░░░░░░░░   30.22% 
-Python                   4  hrs 2 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97% 
-HTML                     2  hrs              ███░░░░░░░░░░░░░░░░░░░░░░   8.41% 
-SASS                     1  hr               █░░░░░░░░░░░░░░░░░░░░░░░░   1.36%
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=ehsanghaffarii) -->
 
-💻 Operating System: 
-Mac                      45 hrs 14 mins      ██████████████████░░░░░░░   70.0%
-Linux                    30 hrs 02 mins      ████████░░░░░░░░░░░░░░░░░   30.0%
-    
-``` -->
-
-<!--END_SECTION:waka-->
-  
-  </p>
-</div>
-<!--   ## My Blog Posts on ![Hashnode](https://img.shields.io/badge/Fotokar-2962FF?style=flat-squire&logo=hashnode&logoColor=white) -->
-  
-  <!-- BLOG-POST-LIST:START -->
-<!-- - [A NodeJs web application using an application skeleton!](https://fotokar.ir/a-nodejs-web-application-using-an-application-skeleton) -->
-<!-- - [Hello Hashnode's World!](https://fotokar.ir/hello-hashnodes-world) -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- 
-<p align="">
-<a style="margin-left:2rem" href="https://github.com/ehsanghaffarii/laravel-neumorphism"><img title="neumorphism" src="https://github-readme-stats.vercel.app/api/pin/?username=ehsanghaffarii&repo=laravel-neumorphism&theme=dark"></a>
-<a href="https://github.com/ehsanghaffarii/clubhouse-cli"><img title="clubhouse cli" src="https://github-readme-stats.vercel.app/api/pin/?username=ehsanghaffarii&repo=clubhouse-cli&theme=dark"></a>
- -->
+<!-- [![wakatime](https://wakatime.com/badge/user/f0b0dc2d-d692-4e9a-a6ed-667b80d7dd34.svg)](https://wakatime.com/@ehsandev) -->
