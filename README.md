@@ -22,7 +22,7 @@ Aspiring Developer(focused on FrontEnd) which interested in the assembly program
     
  [![WorkTime status](https://github-readme-stats.vercel.app/api/wakatime?username=ehsandev)](https://ehsanghaffarii.ir)
     
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanghaffarii)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- 
 ```text
 ⌚︎ Time Zone: Africa/Douala
