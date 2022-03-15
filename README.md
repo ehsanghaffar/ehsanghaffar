@@ -19,6 +19,7 @@ Aspiring Developer(focused on FrontEnd) which interested in the assembly program
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-squire&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-squire&logo=angular&logoColor=white)
 ![Aurelia](https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=flat-squire&logo=aurelia&logoColor=fff)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ehsanghaffarii)
 
 <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffarii&count_private=true&theme=graywhite&show_icons=true" /> 
 
@@ -28,6 +29,5 @@ Aspiring Developer(focused on FrontEnd) which interested in the assembly program
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanghaffarii)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=ehsanghaffarii) -->
 
 <!-- [![wakatime](https://wakatime.com/badge/user/f0b0dc2d-d692-4e9a-a6ed-667b80d7dd34.svg)](https://wakatime.com/@ehsandev) -->
