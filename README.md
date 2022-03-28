@@ -4,7 +4,7 @@ Aspiring Developer(focused on FrontEnd) which interested in the assembly program
 
 - 🔭 I’m currently working on [Komodoro](https://komodoro.io), [fullestStack](https://github.com/neekware/FullestStack) and [CafeData](http://cafedata.io/)
 - 📒 Getting Started with C++ Programming Language
-- 🌱 I’m currently learning Python, React and GraphQL
+- 🌱 I’m currently learning Python and GraphQL
 - 😄 I enjoy Python, C/C++ and assembly language
 
 #### 📫 How to reach me: ...
