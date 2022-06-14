@@ -8,7 +8,7 @@ Aspiring Developer(focused on FrontEnd) which interested in the assembly program
 - 🌱 I’m currently learning ??
 <!-- - 😄 I enjoy Python, C/C++ and assembly language -->
 
-#### 📫 How to reach me: ...
+#### 📫 How to reach me:
 
 [![twitter](https://img.shields.io/twitter/follow/ehsanghaffarii?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/ehsanghaffarii)
 [![Instagram](https://img.shields.io/badge/Instagram%20Page-Follow-E4405F?logo=instagram)](https://www.instagram.com/ehsanghaffarii)
