@@ -1,7 +1,9 @@
 ## Hi, I'm Ehsan 
 <!-- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi"> -->
 
-Aspiring Developer(focused on FrontEnd) which interested in the assembly programming language. Also, I love doing Graphic Designs for fun.
+Aspiring Developer(focused on FrontEnd) which interested in the assembly programming language.
+
+Also, I love doing Graphic Designs for fun.
 
 - 🔭 I’m currently working on [Komodoro](https://komodoro.io), [fullestStack](https://github.com/neekware/FullestStack) and [PlotSet](http://plotset.com/)
 <!-- - 📒 Getting Started with C++ Programming Language -->
