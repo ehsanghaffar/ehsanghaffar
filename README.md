@@ -26,7 +26,7 @@ Also, I love doing Graphic Designs for fun.
 
 <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffarii&count_private=true&theme=graywhite&show_icons=true" /> 
 
-#### 📊 This Week I Spent My Time On
+#### 📊 Last 3 days I spent my time on
 
 [![WorkTime status](https://github-readme-stats.vercel.app/api/wakatime?username=ehsandev&hide=html,css,yaml,scss,other)](https://ehsanghaffarii.ir)
 
