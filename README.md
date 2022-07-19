@@ -24,13 +24,13 @@ Also, I love doing Graphic Designs for fun.
 ![Aurelia](https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=flat-squire&logo=aurelia&logoColor=fff)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ehsanghaffarii)
 
-<img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffarii&count_private=true&theme=graywhite&show_icons=true" /> 
+<img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffarii&count_private=true&theme=radical&show_icons=true" /> 
 
-#### 📊 Last 3 days I spent my time on
+<!-- #### 📊 Last 3 days I spent my time on -->
 
-[![WorkTime status](https://github-readme-stats.vercel.app/api/wakatime?username=ehsandev&hide=html,css,yaml,scss,other)](https://ehsanghaffarii.ir)
+<!-- [![WorkTime status](https://github-readme-stats.vercel.app/api/wakatime?username=ehsandev&hide=html,css,yaml,scss,other)](https://ehsanghaffarii.ir) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanghaffarii)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanghaffarii&hide=html,blade,css&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- [![wakatime](https://wakatime.com/badge/user/f0b0dc2d-d692-4e9a-a6ed-667b80d7dd34.svg)](https://wakatime.com/@ehsandev) -->
