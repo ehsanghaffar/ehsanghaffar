@@ -7,7 +7,7 @@ Also, I love doing Graphic Designs for fun.
 
 - 🔭 I’m currently working on [Komodoro](https://komodoro.io), [fullestStack](https://github.com/neekware/FullestStack) and [PlotSet](http://plotset.com/)
 <!-- - 📒 Getting Started with C++ Programming Language -->
-- 🌱 I’m currently learning something.
+<!-- 🌱 I’m currently learning something. -->
 <!-- - 😄 I enjoy Python, C/C++ and assembly language -->
 
 #### 📫 How to reach me:
@@ -16,13 +16,13 @@ Also, I love doing Graphic Designs for fun.
 [![Instagram](https://img.shields.io/badge/Instagram%20Page-Follow-E4405F?logo=instagram)](https://www.instagram.com/ehsanghaffarii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?logo=linkedin)](https://www.linkedin.com/in/ehsanghaffarii)
 
-#### 💾 Which technology I know?
+<!-- #### 💾 Which technology I know?
 
 [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-squire&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-squire&logo=angular&logoColor=white)
 ![Aurelia](https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=flat-squire&logo=aurelia&logoColor=fff)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ehsanghaffarii)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ehsanghaffarii) -->
 
 <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffarii&count_private=true&theme=radical&show_icons=true" /> 
 
