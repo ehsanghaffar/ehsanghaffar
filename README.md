@@ -24,7 +24,7 @@ Also, I love doing Graphic Designs for fun.
 ![Aurelia](https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=flat-squire&logo=aurelia&logoColor=fff)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ehsanghaffarii) -->
 
-<img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffarii&count_private=true&theme=radical&show_icons=true" /> 
+<img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffar&count_private=true&theme=radical&show_icons=true" /> 
 
 <!-- #### 📊 Last 3 days I spent my time on -->
 
