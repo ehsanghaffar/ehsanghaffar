@@ -35,4 +35,4 @@ Also, I love doing Graphic Designs for fun.
 
 <!-- [![wakatime](https://wakatime.com/badge/user/f0b0dc2d-d692-4e9a-a6ed-667b80d7dd34.svg)](https://wakatime.com/@ehsandev) -->
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ehsanghaffarii&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+<!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ehsanghaffarii&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
