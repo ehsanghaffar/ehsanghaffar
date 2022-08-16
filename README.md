@@ -30,7 +30,7 @@ Also, I love doing Graphic Designs for fun.
 
 [![WorkTime status](https://github-readme-stats.vercel.app/api/wakatime?username=ehsandev&hide=html,css,yaml,scss,other&layout=compact&theme=radical)](https://ehsanghaffarii.ir)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanghaffarii&hide=html,blade,css&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanghaffarii&hide=html,blade,css&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!-- [![wakatime](https://wakatime.com/badge/user/f0b0dc2d-d692-4e9a-a6ed-667b80d7dd34.svg)](https://wakatime.com/@ehsandev) -->
