@@ -5,7 +5,7 @@ Aspiring Developer(focused on FrontEnd) which interested in the assembly program
 
 Also, I love doing Graphic Designs for fun.
 
-- 🔭 I’m currently working on [Komodoro](https://komodoro.io), [fullestStack](https://github.com/neekware/FullestStack) and [PlotSet](http://plotset.com/)
+<!-- - 🔭 I’m currently working on [Komodoro](https://komodoro.io), [fullestStack](https://github.com/neekware/FullestStack) and [PlotSet](http://plotset.com/) -->
 <!-- - 📒 Getting Started with C++ Programming Language -->
 <!-- 🌱 I’m currently learning something. -->
 <!-- - 😄 I enjoy Python, C/C++ and assembly -->
