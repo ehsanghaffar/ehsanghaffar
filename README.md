@@ -17,6 +17,7 @@ Also, I love doing Graphic Designs for fun.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?logo=linkedin)](https://www.linkedin.com/in/ehsanghaffarii)
 
 [![wakatime](https://wakatime.com/badge/user/f0b0dc2d-d692-4e9a-a6ed-667b80d7dd34.svg)](https://wakatime.com/@ehsandev)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ehsanghaffarii)
 
 <!-- #### 💾 Which technology I know?
 
