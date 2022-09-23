@@ -2,8 +2,7 @@
 <!-- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi"> -->
 
 Aspiring Developer(focused on FrontEnd) which interested in the assembly programming language.
-
-Also, I love doing Graphic Designs for fun.
+<!-- Also, I love doing Graphic Designs for fun. -->
 
 <!-- - 🔭 I’m currently working on [Komodoro](https://komodoro.io), [fullestStack](https://github.com/neekware/FullestStack) and [PlotSet](http://plotset.com/) -->
 <!-- - 📒 Getting Started with C++ Programming Language -->
@@ -11,8 +10,9 @@ Also, I love doing Graphic Designs for fun.
 <!-- - 😄 I enjoy Python, C/C++ and assembly -->
 
 #### 📫 How to reach me:
+You can reach me directly on with [@ehsanghaffar on twitter](https://twitter.com/ehsanghaffarii) or on [Linkedin](https://www.linkedin.com/in/ehsanghaffarii), or via email at [this link](mailto:ghafari.5000@gmail.com).
 
-[![twitter](https://img.shields.io/twitter/follow/ehsanghaffarii?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/ehsanghaffarii)
+[![twitter](https://img.shields.io/twitter/follow/ehsanghaffar?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/ehsanghaffar)
 [![Instagram](https://img.shields.io/badge/Instagram%20Page-Follow-E4405F?logo=instagram)](https://www.instagram.com/ehsanghaffarii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?logo=linkedin)](https://www.linkedin.com/in/ehsanghaffarii)
 
