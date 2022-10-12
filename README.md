@@ -17,7 +17,7 @@ You can reach me directly on with [@ehsanghaffar on twitter](https://twitter.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?logo=linkedin)](https://www.linkedin.com/in/ehsanghaffarii)
 
 [![wakatime](https://wakatime.com/badge/user/f0b0dc2d-d692-4e9a-a6ed-667b80d7dd34.svg)](https://wakatime.com/@ehsandev)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ehsanghaffarii)
+![](https://komarev.com/ghpvc/?username=ehsanghaffar)
 
 <!-- #### 💾 Which technology I know?
 
@@ -25,7 +25,7 @@ You can reach me directly on with [@ehsanghaffar on twitter](https://twitter.com
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-squire&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-squire&logo=angular&logoColor=white)
 ![Aurelia](https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=flat-squire&logo=aurelia&logoColor=fff)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ehsanghaffarii) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ehsanghaffar) -->
 
 <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanghaffar&count_private=true&theme=radical&show_icons=true" /> 
 
