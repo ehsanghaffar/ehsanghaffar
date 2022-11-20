@@ -10,7 +10,7 @@ My preferred Database is MongoDB
 <!-- - 🔭 I’m currently working on [Komodoro](https://komodoro.io), [fullestStack](https://github.com/neekware/FullestStack) and [PlotSet](http://plotset.com/). -->
 <!-- - 📒 Getting Started with C++ Programming Language. -->
 <!-- 🌱 I’m currently learning something. -->
-<!-- - 😄 I enjoy Python, C/C++ and assembly. -->
+<!-- - 😄 I enjoy Python, C/C++ and assembly -->
 
 #### 📫 How to reach me:
 You can reach me directly on with [@ehsanghaffar on twitter](https://twitter.com/ehsanghaffarii) or on [Linkedin](https://www.linkedin.com/in/ehsanghaffarii), or via email at [this link](mailto:ghafari.5000@gmail.com).
