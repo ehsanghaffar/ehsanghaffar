@@ -34,7 +34,7 @@ You can reach me directly on with [@ehsanghaffar on twitter](https://twitter.com
 
 <!-- #### 📊 Last 3 days I spent my time on -->
 
-<!-- [![WorkTime status](https://github-readme-stats.vercel.app/api/wakatime?username=ehsandev&hide=html,css,text,xml,yaml,scss,other&layout=compact&theme=radical)](https://ehsanghaffarii.ir) -->
+[![WorkTime status](https://github-readme-stats.vercel.app/api/wakatime?username=ehsandev&hide=html,css,text,xml,yaml,scss,other&layout=compact&theme=radical)](https://ehsanghaffarii.ir)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanghaffar&hide=html,blade,handlebars,css&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
