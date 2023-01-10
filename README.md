@@ -23,7 +23,8 @@ You can reach me directly on with [@ehsanghaffar on twitter](https://twitter.com
 ![](https://komarev.com/ghpvc/?username=ehsanghaffar)
 
 <!-- #### 💾 Which technology I know?
-
+trhis is eha
+یشسیپش من
 [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-squire&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-squire&logo=angular&logoColor=white)
