@@ -23,8 +23,7 @@ You can reach me directly on with [@ehsanghaffar on twitter](https://twitter.com
 ![](https://komarev.com/ghpvc/?username=ehsanghaffar)
 
 <!-- #### 💾 Which technology I know?
-trhis is eha
-یشسیپش من
+
 [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-squire&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-squire&logo=angular&logoColor=white)
@@ -41,11 +40,3 @@ trhis is eha
 
 
 <!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ehsanghaffarii&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
-
-<!-- BLOG-POST-LIST:START -->
-- [ارائه «مانیتورینگ و Observability چیست؟ | صحبتی درخصوص لاگ، متریک ها، distributed tracing و OpenTelemetry»](https://mohamadabbasi.me/what-is-monitoring-and-observability-in-software/)
-- [مرحله ششم : منابع خود را فیلتر کنید.](https://mohamadabbasi.me/%d9%85%d8%b1%d8%ad%d9%84%d9%87-%d8%b4%d8%b4%d9%85-%d9%85%d9%86%d8%a7%d8%a8%d8%b9-%d8%ae%d9%88%d8%af-%d8%b1%d8%a7-%d9%81%db%8c%d9%84%d8%aa%d8%b1-%da%a9%d9%86%db%8c%d8%af/)
-- [مرحله پنجم : یک برنامه آموزشی خلق کنید.](https://mohamadabbasi.me/%d9%85%d8%b1%d8%ad%d9%84%d9%87-%d9%be%d9%86%d8%ac%d9%85-%db%8c%da%a9-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d8%a2%d9%85%d9%88%d8%b2%d8%b4%db%8c-%d8%ae%d9%84%d9%82-%da%a9%d9%86%db%8c%d8%af/)
-- [مرحله چهارم : منابع مورد نیازتان را پیدا کنید.](https://mohamadabbasi.me/%d9%85%d8%b1%d8%ad%d9%84%d9%87-%da%86%d9%87%d8%a7%d8%b1%d9%85-%d9%85%d9%86%d8%a7%d8%a8%d8%b9-%d9%85%d9%88%d8%b1%d8%af-%d9%86%db%8c%d8%a7%d8%b2%d8%aa%d8%a7%d9%86-%d8%b1%d8%a7-%d9%be%db%8c%d8%af%d8%a7/)
-- [نمادهای مدل C4 در مستندسازی معماری نرم‌افزار](https://mohamadabbasi.me/c4-model-notation/)
-<!-- BLOG-POST-LIST:END -->
