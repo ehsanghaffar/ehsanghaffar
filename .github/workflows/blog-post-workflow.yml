@@ -12,4 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOG-POST-LIST"
-          feed_list: "https://fotokar.ir/rss.xml"
+          feed_list: "http://mohamadabbasi.me/feed/"
