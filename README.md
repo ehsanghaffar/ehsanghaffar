@@ -38,5 +38,11 @@ You can reach me directly on with [@ehsanghaffar on twitter](https://twitter.com
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanghaffar&hide=html,blade,handlebars,php,css&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  -->
+ 
+![ehsanghaffar's Stats](https://github-readme-stats.vercel.app/api?username=ehsanghaffar&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ehsanghaffarii&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+<!-- ![ehsanghaffar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ehsanghaffar&theme=vue-dark&hide_border=false) -->
+
+![ehsanghaffar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanghaffar&hide=html,blade,handlebars,php,css&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+
+<!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ehsanghaffarii&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
