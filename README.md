@@ -37,6 +37,9 @@ You can reach me directly on with [@ehsanghaffar on twitter](https://twitter.com
 
 ### :zap: Recent Activity
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
