@@ -15,19 +15,19 @@ My preferred Database is MongoDB
 #### 📫 How to reach me:
 You can reach me directly on with [@ehsanghaffar on twitter](https://twitter.com/ehsanghaffarii) or on [Linkedin](https://www.linkedin.com/in/ehsanghaffarii), or via email at [this link](mailto:ghafari.5000@gmail.com).
 
-[![twitter](https://img.shields.io/twitter/follow/ehsanghaffar?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/ehsanghaffar)
+[![twitter](https://img.shields.io/twitter/url?color=blue&label=twitter&logo=twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fehsanghaffar%2Ffollow)](https://twitter.com/ehsanghaffar)
 [![Instagram](https://img.shields.io/badge/Instagram%20Page-Follow-E4405F?logo=instagram)](https://www.instagram.com/ehsanghaffarii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?logo=linkedin)](https://www.linkedin.com/in/ehsanghaffarii)
 
-[![wakatime](https://wakatime.com/badge/user/f0b0dc2d-d692-4e9a-a6ed-667b80d7dd34.svg)](https://wakatime.com/@ehsandev)
-![](https://komarev.com/ghpvc/?username=ehsanghaffar)
+<!-- [![wakatime](https://wakatime.com/badge/user/f0b0dc2d-d692-4e9a-a6ed-667b80d7dd34.svg)](https://wakatime.com/@ehsandev)
+![](https://komarev.com/ghpvc/?username=ehsanghaffar) -->
 
-#### 💾 Which technology I know?
+<!-- #### 💾 Which technology I know?
 
 [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-squire&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-squire&logo=angular&logoColor=white)
-![Aurelia](https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=flat-squire&logo=aurelia&logoColor=fff)
+![Aurelia](https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=flat-squire&logo=aurelia&logoColor=fff) -->
 
  
 <!-- ![ehsanghaffar's Stats](https://github-readme-stats.vercel.app/api?username=ehsanghaffar&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) -->
@@ -35,7 +35,6 @@ You can reach me directly on with [@ehsanghaffar on twitter](https://twitter.com
 
 <!-- ![ehsanghaffar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanghaffar&hide=html,blade,handlebars,php,css&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) -->
 
-### :zap: Recent Activity
 
 <!--START_SECTION:waka-->
 
