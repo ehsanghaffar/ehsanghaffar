@@ -38,6 +38,20 @@ You can reach me directly on with [@ehsanghaffar on twitter](https://twitter.com
 ### :zap: Recent Activity
 
 <!--START_SECTION:waka-->
+
+```text
+From: 15 December 2021 - To: 20 January 2023
+
+Total Time: 1,589 hrs 58 mins
+
+JavaScript                 453 hrs 39 mins >>>>>>>------------------   28.53 %
+HTML                       368 hrs 7 mins  >>>>>>-------------------   23.15 %
+TypeScript                 233 hrs 2 mins  >>>>---------------------   14.66 %
+Python                     113 hrs 14 mins >>-----------------------   07.12 %
+JSON                       93 hrs 21 mins  >------------------------   05.87 %
+Markdown                   71 hrs 9 mins   >------------------------   04.48 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
