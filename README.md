@@ -22,17 +22,16 @@ You can reach me directly on with [@ehsanghaffar on twitter](https://twitter.com
 [![wakatime](https://wakatime.com/badge/user/f0b0dc2d-d692-4e9a-a6ed-667b80d7dd34.svg)](https://wakatime.com/@ehsandev)
 ![](https://komarev.com/ghpvc/?username=ehsanghaffar)
 
-<!-- #### 💾 Which technology I know?
+#### 💾 Which technology I know?
 
 [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-squire&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-squire&logo=angular&logoColor=white)
 ![Aurelia](https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=flat-squire&logo=aurelia&logoColor=fff)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ehsanghaffar) -->
 
  
-![ehsanghaffar's Stats](https://github-readme-stats.vercel.app/api?username=ehsanghaffar&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+<!-- ![ehsanghaffar's Stats](https://github-readme-stats.vercel.app/api?username=ehsanghaffar&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) -->
 
 
-![ehsanghaffar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanghaffar&hide=html,blade,handlebars,php,css&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+<!-- ![ehsanghaffar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanghaffar&hide=html,blade,handlebars,php,css&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) -->
 
