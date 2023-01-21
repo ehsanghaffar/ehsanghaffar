@@ -54,5 +54,3 @@ Markdown                   71 hrs 9 mins   >------------------------   04.48 %
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
