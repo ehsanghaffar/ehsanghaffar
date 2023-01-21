@@ -52,11 +52,3 @@ Markdown                   71 hrs 9 mins   >------------------------   04.48 %
 ```
 
 <!--END_SECTION:waka-->
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/WhatsApp/proxy/issues/34) in [WhatsApp/proxy](https://github.com/WhatsApp/proxy)
-2. 🗣 Commented on [#28](https://github.com/WhatsApp/proxy/issues/28) in [WhatsApp/proxy](https://github.com/WhatsApp/proxy)
-3. 🗣 Commented on [#34](https://github.com/WhatsApp/proxy/issues/34) in [WhatsApp/proxy](https://github.com/WhatsApp/proxy)
-4. 🗣 Commented on [#34](https://github.com/WhatsApp/proxy/issues/34) in [WhatsApp/proxy](https://github.com/WhatsApp/proxy)
-5. 🗣 Commented on [#34](https://github.com/WhatsApp/proxy/issues/34) in [WhatsApp/proxy](https://github.com/WhatsApp/proxy)
-<!--END_SECTION:activity-->
