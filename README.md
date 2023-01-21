@@ -39,27 +39,15 @@ You can reach me directly on with [@ehsanghaffar on twitter](https://twitter.com
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C591%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-119-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-227-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 30 Contributions in the Year 2023
- > 
-> 📦 57.6 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 61 Public Repositories 
- > 
-> 🔑 8 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning    158 commits    ██████░░░░░░░░░░░░░░░░░░░   23.62% 
 🌆 Daytime    98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.65% 
-🌃 Evening    139 commits    █████░░░░░░░░░░░░░░░░░░░░   20.78% 
-🌙 Night      274 commits    ██████████░░░░░░░░░░░░░░░   40.96%
+🌃 Evening    138 commits    █████░░░░░░░░░░░░░░░░░░░░   20.63% 
+🌙 Night      275 commits    ██████████░░░░░░░░░░░░░░░   41.11%
 
 ```
 
@@ -96,10 +84,6 @@ PHP                      2 repos             █░░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/ehsanghaffar/ehsanghaffar/main/charts/bar_graph.png) 
-
-
- Last Updated on 21/01/2023 00:33:04 UTC
+ Last Updated on 21/01/2023 00:41:55 UTC
 <!--END_SECTION:waka-->
