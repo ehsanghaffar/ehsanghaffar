@@ -3,7 +3,7 @@
 
 Full-Stack JavaScript Engineer with +4 years of experience from scratch to deployment.
 My major stack in Front-End development is Angular and Laravel but not limited to that.
-My preferred Database is MongoDB
+<!-- My preferred Database is MongoDB -->
 <!-- Aspiring Developer(focused on FrontEnd) which interested in the assembly programming language. -->
 <!-- Also, I love doing Graphic Designs for fun -->
 
@@ -12,12 +12,13 @@ My preferred Database is MongoDB
 <!-- 🌱 I’m currently learning something. -->
 <!-- - 😄 I enjoy Python, C/C++ and assembly -->
 
-#### 📫 How to reach me:
+**📫 How to reach me:**
+
 You can reach me directly on with [@ehsanghaffar on twitter](https://twitter.com/ehsanghaffarii) or on [Linkedin](https://www.linkedin.com/in/ehsanghaffarii), or via email at [this link](mailto:ghafari.5000@gmail.com).
 
-[![twitter](https://img.shields.io/twitter/url?color=blue&label=twitter&logo=twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fehsanghaffar%2Ffollow)](https://twitter.com/ehsanghaffar)
-[![Instagram](https://img.shields.io/badge/Instagram%20Page-Follow-E4405F?logo=instagram)](https://www.instagram.com/ehsanghaffarii)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?logo=linkedin)](https://www.linkedin.com/in/ehsanghaffarii)
+<!-- [![twitter](https://img.shields.io/twitter/url?color=blue&label=twitter&logo=twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fehsanghaffar%2Ffollow)](https://twitter.com/ehsanghaffar) -->
+<!-- [![Instagram](https://img.shields.io/badge/Instagram%20Page-Follow-E4405F?logo=instagram)](https://www.instagram.com/ehsanghaffarii) -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?logo=linkedin)](https://www.linkedin.com/in/ehsanghaffarii) -->
 
 <!-- [![wakatime](https://wakatime.com/badge/user/f0b0dc2d-d692-4e9a-a6ed-667b80d7dd34.svg)](https://wakatime.com/@ehsandev)
 ![](https://komarev.com/ghpvc/?username=ehsanghaffar) -->
@@ -81,5 +82,4 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/01/2023 00:48:16 UTC
 <!--END_SECTION:waka-->
