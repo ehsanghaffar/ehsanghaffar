@@ -37,17 +37,13 @@ You can reach me directly on with [@ehsanghaffar on twitter](https://twitter.com
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C591%20hrs%2023%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-227-blue)
-
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning    158 commits    ██████░░░░░░░░░░░░░░░░░░░   23.62% 
-🌆 Daytime    98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.65% 
+🌆 Daytime    97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.5% 
 🌃 Evening    138 commits    █████░░░░░░░░░░░░░░░░░░░░   20.63% 
-🌙 Night      275 commits    ██████████░░░░░░░░░░░░░░░   41.11%
+🌙 Night      276 commits    ██████████░░░░░░░░░░░░░░░   41.26%
 
 ```
 
@@ -85,5 +81,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/01/2023 00:41:55 UTC
+ Last Updated on 21/01/2023 00:48:16 UTC
 <!--END_SECTION:waka-->
