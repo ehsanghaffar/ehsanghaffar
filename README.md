@@ -37,18 +37,69 @@ You can reach me directly on with [@ehsanghaffar on twitter](https://twitter.com
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C591%20hrs%2023%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-119-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 30 Contributions in the Year 2023
+ > 
+> 📦 57.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 61 Public Repositories 
+ > 
+> 🔑 8 Private Repositories  
+ > 
+**I'm a Night 🦉** 
 
 ```text
-From: 15 December 2021 - To: 20 January 2023
+🌞 Morning    158 commits    ██████░░░░░░░░░░░░░░░░░░░   23.62% 
+🌆 Daytime    98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.65% 
+🌃 Evening    139 commits    █████░░░░░░░░░░░░░░░░░░░░   20.78% 
+🌙 Night      274 commits    ██████████░░░░░░░░░░░░░░░   40.96%
 
-Total Time: 1,589 hrs 58 mins
-
-JavaScript                 453 hrs 39 mins >>>>>>>------------------   28.53 %
-HTML                       368 hrs 7 mins  >>>>>>-------------------   23.15 %
-TypeScript                 233 hrs 2 mins  >>>>---------------------   14.66 %
-Python                     113 hrs 14 mins >>-----------------------   07.12 %
-JSON                       93 hrs 21 mins  >------------------------   05.87 %
-Markdown                   71 hrs 9 mins   >------------------------   04.48 %
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Tehran
+
+💬 Programming Languages: 
+Python                   6 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   39.74% 
+YAML                     2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.37% 
+Docker                   2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.11% 
+Markdown                 1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.09% 
+SQL                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.45%
+
+🔥 Editors: 
+VS Code                  16 hrs 54 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      16 hrs 54 mins      █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               18 repos            ██████████░░░░░░░░░░░░░░░   42.86% 
+TypeScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
+Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/ehsanghaffar/ehsanghaffar/main/charts/bar_graph.png) 
+
+
+ Last Updated on 21/01/2023 00:33:04 UTC
 <!--END_SECTION:waka-->
