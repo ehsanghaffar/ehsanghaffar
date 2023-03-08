@@ -5,7 +5,6 @@ Full-Stack JavaScript Engineer with +4 years of experience from scratch to deplo
 <!-- My major stack in Front-End development is Angular and Laravel but not limited to that. -->
 <!-- My preferred Database is MongoDB -->
 <!-- Aspiring Developer(focused on FrontEnd) which interested in the assembly programming language. -->
-<!-- Also, I love doing Graphic Designs for fun -->
 
 <!-- - 🔭 I’m currently working on [Komodoro](https://komodoro.io), [fullestStack](https://github.com/neekware/FullestStack) and [PlotSet](http://plotset.com/). -->
 <!-- - 📒 Getting Started with C++ Programming Language. -->
