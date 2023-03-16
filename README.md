@@ -36,7 +36,7 @@ You can reach me directly on with [@ehsanghaffar on twitter](https://twitter.com
 <!-- ![ehsanghaffar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanghaffar&hide=html,blade,handlebars,php,css&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) -->
 
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:activity-->
 **I'm an Early 🐤** 
 
 ```text
