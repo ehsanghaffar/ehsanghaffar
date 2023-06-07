@@ -6,7 +6,7 @@
  Currently expanding knowledge with Go programming language.
 <!-- My major stack in Front-End development is Angular and Laravel but not limited to that. -->
 <!-- My preferred Database is MongoDB -->
-<!-- Aspiring Developer(focused on FrontEnd) which interested in the assembly programming language. -->
+<!-- Aspiring Developer(focused on FrontEnd) which interested in the assembly programming lang. -->
 
 <!-- - 🔭 I’m currently working on [Komodoro](https://komodoro.io), [fullestStack](https://github.com/neekware/FullestStack) and [PlotSet](http://plotset.com/). -->
 <!-- - 📒 Getting Started with C++ Programming Language. -->
