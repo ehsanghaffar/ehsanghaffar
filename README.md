@@ -1,9 +1,8 @@
 ## Hey, I'm Ehsan 👋
 <!-- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi"> -->
+ Passionate about contributing to open-source projects that empower developers and promote technology accessibility.
 
- Experienced front-end developer with skills in Angular, Next, React, and Aurelia. Also proficient in Node and Django.
- 
- Currently expanding knowledge with Go programming language.
+ Constantly learning, forever curious.
 <!-- My major stack in Front-End development is Angular and Laravel but not limited to that. -->
 <!-- My preferred Database is MongoDB -->
 <!-- Aspiring Developer(focused on FrontEnd) which interested in the assembly programming lang. -->
@@ -15,7 +14,9 @@
 
 <!-- **📫 How to reach me:** -->
 
-You can reach me directly on with [@ehsanghaffar on twitter](https://twitter.com/ehsanghaffarii) or on [Linkedin](https://www.linkedin.com/in/ehsanghaffarii).
+Reach out on [Twitter](https://twitter.com/ehsanghaffarii) or [Linkedin](https://www.linkedin.com/in/ehsanghaffarii) for projects or chats.
+
+-------------
 
 <!-- [![twitter](https://img.shields.io/twitter/url?color=blue&label=twitter&logo=twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fehsanghaffar%2Ffollow)](https://twitter.com/ehsanghaffar) -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram%20Page-Follow-E4405F?logo=instagram)](https://www.instagram.com/ehsanghaffarii) -->
