@@ -22,3 +22,7 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
           SYMBOL_VERSION: 1
+          IGNORED_LANGUAGES: YAML JSON TOML
+
+          # commit
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
