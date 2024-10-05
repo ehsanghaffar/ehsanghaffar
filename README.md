@@ -56,14 +56,13 @@ Reach out on [Twitter](https://twitter.com/ehsanghaffarii) or [Linkedin](https:/
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-CSV                      3 mins              ████████████████████░░░░░   78.04 % 
-Python                   0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,5 +78,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2024 18:49:52 UTC
+ Last Updated on 05/10/2024 18:47:16 UTC
 <!--END_SECTION:waka-->
