@@ -56,13 +56,17 @@ Reach out on [Twitter](https://twitter.com/ehsanghaffarii) or [Linkedin](https:/
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   47 mins             ██████████████░░░░░░░░░░░   54.03 % 
+Bash                     22 mins             ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+Other                    12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Docker                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 28 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,5 +82,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2024 18:50:38 UTC
+ Last Updated on 31/10/2024 18:50:18 UTC
 <!--END_SECTION:waka-->
