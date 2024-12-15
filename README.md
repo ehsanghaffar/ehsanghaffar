@@ -45,8 +45,8 @@ Reach out on [Twitter](https://twitter.com/ehsanghaffarii) or [Linkedin](https:/
 ```text
 🌞 Morning                5879 commits        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
 🌆 Daytime                3450 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-🌃 Evening                9598 commits        ███████████░░░░░░░░░░░░░░   44.56 % 
-🌙 Night                  2614 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+🌃 Evening                9598 commits        ███████████░░░░░░░░░░░░░░   44.55 % 
+🌙 Night                  2615 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
 ```
 
 
@@ -56,13 +56,13 @@ Reach out on [Twitter](https://twitter.com/ehsanghaffarii) or [Linkedin](https:/
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               30 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  30 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      30 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,5 +78,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/12/2024 18:49:48 UTC
+ Last Updated on 15/12/2024 18:49:46 UTC
 <!--END_SECTION:waka-->
