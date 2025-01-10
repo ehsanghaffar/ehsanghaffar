@@ -56,13 +56,13 @@ Reach out on [Twitter](https://twitter.com/ehsanghaffarii) or [Linkedin](https:/
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 10 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,5 +78,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/01/2025 18:50:54 UTC
+ Last Updated on 10/01/2025 18:52:15 UTC
 <!--END_SECTION:waka-->
