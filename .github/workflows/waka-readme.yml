@@ -23,6 +23,7 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SYMBOL_VERSION: 1
           IGNORED_LANGUAGES: YAML JSON TOML
+          SHOW_LANGUAGE_PER_REPO: "False"
 
           # commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
