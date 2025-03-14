@@ -56,15 +56,18 @@ Reach out on [Twitter](https://twitter.com/ehsanghaffarii) or [Linkedin](https:/
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     12 mins             ███████████░░░░░░░░░░░░░░   45.57 % 
+Python                   6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+Markdown                 5 mins              █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+JavaScript               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  28 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      28 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/03/2025 18:50:56 UTC
+ Last Updated on 14/03/2025 18:51:15 UTC
 <!--END_SECTION:waka-->
