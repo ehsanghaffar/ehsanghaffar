@@ -56,16 +56,15 @@ Reach out on [Twitter](https://twitter.com/ehsanghaffarii) or [Linkedin](https:/
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-Python                   43 mins             ████████████████████████░   97.57 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/06/2025 18:55:53 UTC
+ Last Updated on 13/06/2025 18:55:43 UTC
 <!--END_SECTION:waka-->
