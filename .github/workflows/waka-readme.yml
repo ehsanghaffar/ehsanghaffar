@@ -2,8 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+    # Runs at 12:00 PM
+    - cron: '0 12 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
@@ -22,7 +22,7 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
           SYMBOL_VERSION: 1
-          IGNORED_LANGUAGES: YAML JSON TOML
+          IGNORED_LANGUAGES: YAML JSON TOML MD
           SHOW_LANGUAGE_PER_REPO: "False"
 
           # commit
