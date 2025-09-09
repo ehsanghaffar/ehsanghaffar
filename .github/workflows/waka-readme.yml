@@ -21,7 +21,7 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "True"
-          SYMBOL_VERSION: 2
+          SYMBOL_VERSION: 3
           IGNORED_LANGUAGES: YAML JSON TOML MD
           SHOW_LANGUAGE_PER_REPO: "False"
           COMMIT_BY_ME: "True"
