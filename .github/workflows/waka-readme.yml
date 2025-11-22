@@ -24,8 +24,10 @@ jobs:
           SYMBOL_VERSION: 2
           SHOW_LANGUAGE_PER_REPO: "False"
           COMMIT_BY_ME: "True"
+          COMMIT_USERNAME: "ein-wakatime"
           SHOW_UPDATED_DATE: "False"
           SHOW_LINES_OF_CODE: "True"
+          SHOW_TIMEZONE: "False"
 
           # commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
